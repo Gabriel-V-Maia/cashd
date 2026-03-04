@@ -31,7 +31,7 @@ Mas ele será feito para que você rode um servidor em uma maquina separada e en
 # Tech Stack
 
 ## Servidor
-> Rust - Docker
+> Rust · Docker
 
 | Biblioteca | Função |
 |---|---|
