@@ -7,7 +7,7 @@ Mas ele será feito para que você rode um servidor em uma maquina separada e en
 
 
 
-# Funcionalidades:
+# Funcionalidades
 
 ## Técnico
 - [ ] Servidor para self-host funcional
